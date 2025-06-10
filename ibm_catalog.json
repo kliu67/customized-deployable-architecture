@@ -1,8 +1,8 @@
 {
     "products": [
         {
-            "name": "custom-deployable-arch",
-            "label": "custom-deployable-arch",
+            "name": "custom-deployable-arch-Kai",
+            "label": "custom-deployable-arch-Kai",
             "product_kind": "solution",
             "tags": ["network", "network_vpc"],
             "keywords": ["custom", "vpc", "secure", "baby", "test slz", "baby slz"],
